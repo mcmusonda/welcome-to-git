@@ -4,7 +4,7 @@
 }
 
 body {
-  color: #000;
+  color: #444;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.7;
 }
@@ -15,7 +15,7 @@ main {
 }
 
 h1 {
-  color: chocolate;
+  color: #808080;
 }
 
 .m-5 {
